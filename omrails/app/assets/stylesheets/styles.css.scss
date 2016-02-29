@@ -1,0 +1,18 @@
+//Change the font
+// $baseFontFamily: Oxygen;
+// @import url(http://fonts.googleapis.com/css?family=Oxygen);
+
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
+
+body {
+  padding-top: 60px;
+}
+
+.footer {
+  margin-top: 50px;
+  color: rgb(156, 153, 153);
+  a {
+    color: rgb(85, 85, 85);
+  }
+}
